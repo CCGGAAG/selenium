@@ -1,0 +1,18 @@
+1496896034203	geckodriver	INFO	Listening on 127.0.0.1:49717
+1496896036197	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.DqXKhOXPvS5N
+1496896036204	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1496896036292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49723
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1496896039325	Marionette	INFO	Listening on port 49723
+1496896039516	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 68612] WARNING: pipe error: 109: file c:/builds/moz2_sl1496896064940	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.W03lGymhCQKH
+1496896064963	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1496896065012	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49781
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1496896067236	Marionette	INFO	Listening on port 49781
+1496896068176	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 46376] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

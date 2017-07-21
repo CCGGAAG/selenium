@@ -1,0 +1,93 @@
+1491565757235	geckodriver	INFO	Listening on 127.0.0.1:62756
+1491565998804	geckodriver	INFO	Listening on 127.0.0.1:63099
+1491566547519	geckodriver	INFO	Listening on 127.0.0.1:49983
+1491566549509	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.2QBwTSWSKp0c
+1491566549511	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491566549679	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49990
+1491566550284	Marionette	INFO	Listening on port 49990
+1491967224935	geckodriver	INFO	Listening on 127.0.0.1:64749
+1491967226944	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.D2PfDS8Skueu
+1491967226949	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491967226993	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64755
+1491967227987	Marionette	INFO	Listening on port 64755
+1491967228387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/software/firefox/browser/features/deployment-checker@mozilla.org.xpi!/bootstrap.js, line 67: TypeError: evt.target.channel.securityInfo is null
+1491967310801	geckodriver	INFO	Listening on 127.0.0.1:64841
+1491967312793	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.yqx59pXZP1HS
+1491967312797	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491967312840	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64848
+1491967313839	Marionette	INFO	Listening on port 64848
+1491967314188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/software/firefox/browser/features/deployment-checker@mozilla.org.xpi!/bootstrap.js, line 67: TypeError: evt.target.channel.securityInfo is null
+1491967394205	geckodriver	INFO	Listening on 127.0.0.1:64949
+1491967396207	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.N3dZdBJd5CPF
+1491967396211	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491967396251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64955
+1491967397303	Marionette	INFO	Listening on port 64955
+1491967397854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491967400200	Marionette	INFO	New connections will no longer be accepted
+[Child 14580] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491967433669	geckodriver	INFO	Listening on 127.0.0.1:65031
+1491967435687	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.4iAieECPx1Zr
+1491967435700	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491967435752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65038
+1491967436772	Marionette	INFO	Listening on port 65038
+1491967437302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunne&json=1&p=3&sid=1424_21086_22175_20927&req=2&csor=14&pwd=HTNMLTestRunn&cb=jQuery110206240100907125989_1491967438985&_=1491967439000, line 1: TypeError: jQuery110206240100907125989_1491967438985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunn&json=1&p=3&sid=1424_21086_22175_20927&req=2&csor=13&pwd=HTNMLTestRun&cb=jQuery110206240100907125989_1491967438985&_=1491967438999, line 1: TypeError: jQuery110206240100907125989_1491967438985 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunner&json=1&p=3&sid=1424_21086_22175_20927&req=2&csor=15&pwd=HTNMLTestRunne&cb=jQuery110206240100907125989_1491967438985&_=1491967439001, line 1: TypeError: jQuery110206240100907125989_1491967438985 is not a function
+1491967439869	Marionette	INFO	New connections will no longer be accepted
+[Child 7476] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491967592406	geckodriver	INFO	Listening on 127.0.0.1:65152
+1491967594426	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.0MyJfee1h2kd
+1491967594438	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491967594503	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65158
+1491967595540	Marionette	INFO	Listening on port 65158
+1491967596070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/software/firefox/browser/features/deployment-checker@mozilla.org.xpi!/bootstrap.js, line 67: TypeError: evt.target.channel.securityInfo is null
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNML&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=5&pwd=HTNM&cb=jQuery110208459600031534542_1491967598098&_=1491967598104, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+1491967598857	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTe&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=7&pwd=HTNMLT&cb=jQuery110208459600031534542_1491967598098&_=1491967598106, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTes&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=8&pwd=HTNMLTe&cb=jQuery110208459600031534542_1491967598098&_=1491967598107, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTest&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=9&pwd=HTNMLTes&cb=jQuery110208459600031534542_1491967598098&_=1491967598108, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestR&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=10&pwd=HTNMLTest&cb=jQuery110208459600031534542_1491967598098&_=1491967598109, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRu&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=11&pwd=HTNMLTestR&cb=jQuery110208459600031534542_1491967598098&_=1491967598110, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLT&json=1&p=3&sid=1467_21082_17001_22157&req=2&csor=6&pwd=HTNML&cb=jQuery110208459600031534542_1491967598098&_=1491967598105, line 1: TypeError: jQuery110208459600031534542_1491967598098 is not a function
+[Child 13916] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 13916] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491967716338	geckodriver	INFO	Listening on 127.0.0.1:65284
+1491967718363	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.aZDDi463eSdX
+1491967718376	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491967718443	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65290
+1491967719502	Marionette	INFO	Listening on port 65290
+1491967720059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunn&json=1&p=3&sid=1454_21121_18559_22175_20928&req=2&csor=13&pwd=HTNMLTestRun&cb=jQuery11020572877432011703_1491967722028&_=1491967722042, line 1: TypeError: jQuery11020572877432011703_1491967722028 is not a function
+1491967723098	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunne&json=1&p=3&sid=1454_21121_18559_22175_20928&req=2&csor=14&pwd=HTNMLTestRunn&cb=jQuery11020572877432011703_1491967722028&_=1491967722043, line 1: TypeError: jQuery11020572877432011703_1491967722028 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunner&json=1&p=3&sid=1454_21121_18559_22175_20928&req=2&csor=15&pwd=HTNMLTestRunne&cb=jQuery11020572877432011703_1491967722028&_=1491967722044, line 1: TypeError: jQuery11020572877432011703_1491967722028 is not a function
+[Child 14792] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491977223757	geckodriver	INFO	Listening on 127.0.0.1:51136
+1491977225760	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.erYbwhS7O6A1
+1491977225767	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491977225831	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51142
+1491977227090	Marionette	INFO	Listening on port 51142
+1491977227435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491977230251	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTest&json=1&p=3&sid=1447_21120_22514_22075&req=2&csor=9&pwd=HTNMLTes&cb=jQuery1102036983298893092875_1491977229404&_=1491977229414, line 1: TypeError: jQuery1102036983298893092875_1491977229404 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestR&json=1&p=3&sid=1447_21120_22514_22075&req=2&csor=10&pwd=HTNMLTest&cb=jQuery1102036983298893092875_1491977229404&_=1491977229415, line 1: TypeError: jQuery1102036983298893092875_1491977229404 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRu&json=1&p=3&sid=1447_21120_22514_22075&req=2&csor=11&pwd=HTNMLTestR&cb=jQuery1102036983298893092875_1491977229404&_=1491977229416, line 1: TypeError: jQuery1102036983298893092875_1491977229404 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRun&json=1&p=3&sid=1447_21120_22514_22075&req=2&csor=12&pwd=HTNMLTestRu&cb=jQuery1102036983298893092875_1491977229404&_=1491977229417, line 1: TypeError: jQuery1102036983298893092875_1491977229404 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunn&json=1&p=3&sid=1447_21120_22514_22075&req=2&csor=13&pwd=HTNMLTestRun&cb=jQuery1102036983298893092875_1491977229404&_=1491977229418, line 1: TypeError: jQuery1102036983298893092875_1491977229404 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HTNMLTestRunne&json=1&p=3&sid=1447_21120_22514_22075&req=2&csor=14&pwd=HTNMLTestRunn&cb=jQuery1102036983298893092875_1491977229404&_=1491977229419, line 1: TypeError: jQuery1102036983298893092875_1491977229404 is not a function
+[Child 17052] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 17052] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1491977662315	geckodriver	INFO	Listening on 127.0.0.1:51285
+1491977664321	mozprofile::profile	INFO	Using profile path C:\Users\test\AppData\Local\Temp\rust_mozprofile.k4LSBmMCcJwL
+1491977664328	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1491977664363	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51292
+1491977665356	Marionette	INFO	Listening on port 51292
+1491977665704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=H&json=1&p=3&sid=22164_1448_21104_17001_22173_20719&req=2&csor=1&cb=jQuery110209546920870899052_1491977667696&_=1491977667698, line 1: TypeError: jQuery110209546920870899052_1491977667696 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=HT&json=1&p=3&sid=22164_1448_21104_17001_22173_20719&req=2&csor=2&pwd=H&cb=jQuery110209546920870899052_1491977667696&_=1491977667699, line 1: TypeError: jQuery110209546920870899052_1491977667696 is not a function
+1491977668555	Marionette	INFO	New connections will no longer be accepted
+[Child 16192] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143

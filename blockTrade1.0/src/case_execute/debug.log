@@ -1,0 +1,28 @@
+[0426/172303.841:ERROR:process_info.cc(343)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0426/172303.841:ERROR:process_info.cc(564)] ReadMemoryInfo failed
+[0426/172303.841:ERROR:process_reader_win.cc(233)] ReadMemory at 0x67137dc8 of 12 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0426/172303.841:WARNING:process_snapshot_win.cc(68)] ReadMemory ExceptionInformation failed
+[0426/172303.841:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0426/172303.841:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0427/095932.936:ERROR:process_info.cc(343)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0427/095932.952:ERROR:process_info.cc(564)] ReadMemoryInfo failed
+[0427/095932.952:ERROR:process_reader_win.cc(233)] ReadMemory at 0x67137dc8 of 12 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[0427/095932.952:WARNING:process_snapshot_win.cc(68)] ReadMemory ExceptionInformation failed
+[0427/095932.952:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0427/095932.952:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0427/200200.807:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[0427/200200.830:ERROR:exception_snapshot_win.cc(87)] thread ID 19508 not found in process
+[0427/200200.831:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0427/200200.831:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0427/200209.962:ERROR:process_reader_win.cc(99)] process 25500 not found
+[0427/200209.968:ERROR:exception_snapshot_win.cc(87)] thread ID 23424 not found in process
+[0427/200209.968:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0427/200209.968:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0428/130205.419:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[0428/130205.446:ERROR:exception_snapshot_win.cc(87)] thread ID 35624 not found in process
+[0428/130205.446:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0428/130205.446:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[0428/152953.892:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[0428/152953.906:ERROR:exception_snapshot_win.cc(87)] thread ID 24348 not found in process
+[0428/152953.906:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0428/152953.906:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
